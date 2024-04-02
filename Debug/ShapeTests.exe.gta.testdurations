@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Executable>C:\Users\Ankit Singh\source\repos\PropertiesShapes\Debug\ShapeTests.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="TestCaseName.TestName" Duration="1" />
+    <TestDuration Test="TestCaseName1.TestName1" Duration="1" />
+    <TestDuration Test="TestCaseName2.TestName2" Duration="1" />
+    <TestDuration Test="TestCaseName3.TestName3" Duration="1" />
+    <TestDuration Test="TestCaseName4.TestName4" Duration="1" />
+    <TestDuration Test="RectangleArea.rArea" Duration="1" />
+    <TestDuration Test="TestCaseName.TestNam10" Duration="1" />
+    <TestDuration Test="RectangleTest.AreaCalculation" Duration="1" />
+    <TestDuration Test="RectangleTest.PerimeterCalculation" Duration="1" />
+    <TestDuration Test="CircleTest.AreaCalculation" Duration="1" />
+    <TestDuration Test="CircleTest.PerimeterCalculation" Duration="1" />
+    <TestDuration Test="TriangleTest.AreaCalculation" Duration="1" />
+    <TestDuration Test="TriangleTest.PerimeterCalculation" Duration="1" />
+    <TestDuration Test="TriangleTest.PointInsideOrNot" Duration="1" />
+    <TestDuration Test="CircleTest.InsideCircleOrNot" Duration="1" />
+    <TestDuration Test="RectangleTest.PointInsideOrNotRectangle" Duration="1" />
+  </TestDurations>
+</GtaTestDurations>
